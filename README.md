@@ -33,7 +33,7 @@ About Pie & AI: Pie & AI is a series of DeepLearning.AI meetups independently ho
 ## Learn Python:
 4.	Learn Python in 5 minutes: https://youtu.be/I2wURDqiXdM
 5.	Hackerrank:  https://www.hackerrank.com/auth/signup
-6.	Python Repository: https://github.com/ attaullahshafiq10/ML-101
+6.	Python Repository: https://github.com/attaullahshafiq10/ML-101
 7.	If else statements: https://www.geeksforgeeks.org/python-if-else/
 8.	Object Oriented Programming: https://www.geeksforgeeks.org/object-oriented-programming-in-python-set-1-class-and-its-members/
 ## Learn Machine Learning
