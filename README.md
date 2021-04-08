@@ -1,4 +1,25 @@
-# ML-101
+# Machine Learning 101 - Deeplearning.Ai
+About this Event
+Pie & AI is a series of DeepLearning.AI meetups independently hosted by community groups. This event is hosted by Hafiz Muhammad Attaullah. Special thanks to their support!
+
+Event Agenda & Speakers:
+
+We gives an overview of Machine Learning and delves deep into the pipeline used - right from fetching the data, the tools and frameworks used to creating models, gaining insights and telling a story.
+
+
+Adnan Zaidi
+
+Hafiz Muhammad Attaullah
+___________
+
+For beginners and intermediate learners.
+
+
+
+About Pie & AI: Pie & AI is a series of DeepLearning.AI meetups independently hosted by our global AI community. Events typically include conversations with leaders in the world, thought-provoking discussions, networking opportunities with your fellow learners, hands-on project practice, and pies (or other desserts you prefer.)
+
+
+
 
 # Resources
 
@@ -29,3 +50,17 @@
 ## Azure Credits:
 17.	[$100] Github Student Developer Pack: https://education.github.com/pack
 18.	[$200] Signup: https://azure.microsoft.com/en-us/free/
+
+
+
+
+
+Hafiz Muhammad Attaullah
+
+(Ambassador at Deeplearning.AI)
+
+https://www.linkedin.com/in/attaullahshafiq10/
+
+attaullahshafiq10@gmail.com
+
++923163116336
