@@ -1,1 +1,31 @@
 # ML-101
+
+# Resources
+
+
+
+
+1.	Interview with Sophia: https://youtu.be/ZQrKFAAlxO4
+2.	HM Attaullah’s Github Profile: https://github.com/attaullahshafiq10
+3.	HM Attaullah’s Kaggle Profile: https://www.kaggle.com/attaullah10
+
+## Learn Python:
+4.	Learn Python in 5 minutes: https://youtu.be/I2wURDqiXdM
+5.	Hackerrank:  https://www.hackerrank.com/auth/signup
+6.	Python Repository: https://github.com/ attaullahshafiq10/ML-101
+7.	If else statements: https://www.geeksforgeeks.org/python-if-else/
+8.	Object Oriented Programming: https://www.geeksforgeeks.org/object-oriented-programming-in-python-set-1-class-and-its-members/
+## Learn Machine Learning
+9.	Coursera: https://www.coursera.org/learn/machine-learning
+10.	DeepLizard playlist: https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU
+## Learn Deep Learning
+11.	Coursera: https://www.coursera.org/specializations/deep-learning
+12.	FAST Ai: https://course.fast.ai/videos/
+## Machine Learning & Deep Learning
+13.	 Setup Anaconda: https://www.anaconda.com/products/individual
+14.	Deep Learning Repository: https://github.com/attaullahshafiq10
+15.	Hands-on practice: https://github.com/attaullahshafiq10/ML-101
+16.	Pandas: https://github.com/attaullahshafiq10/pandas_exercises
+## Azure Credits:
+17.	[$100] Github Student Developer Pack: https://education.github.com/pack
+18.	[$200] Signup: https://azure.microsoft.com/en-us/free/
