@@ -1,5 +1,32 @@
 # Machine Learning 101 - Deeplearning.Ai
-About this Event
+
+Repository containing hands-on, open-source, practise notebooks for participants attending the [AI 101: Introduction to Artificial Intelligence](https://www.facebook.com/events/429419051422702) Workshop.
+
+List of files:
+
+- Workshop Resources
+  - Resources.txt
+  
+- Workshop Example:
+  - Feature Classifier Example
+
+- For Machine Learning:
+  - 01 - Data Exploration
+  - 02 - Regression
+  - 03 - Classification
+  - 04 - Clustering
+
+- For Deep Learning:
+  - 05a - Deep Neural Networks (PyTorch)
+  - 05a - Deep Neural Networks (TensorFlow)
+  - 05b - Convolutional Neural Networks (PyTorch)
+  - 05b - Convolutional Neural Networks (Tensorflow)
+  - 05c - Transfer Learning (PyTorch)
+  - 05c - Transfer Learning (Tensorflow)
+
+
+
+## About this Event
 Pie & AI is a series of DeepLearning.AI meetups independently hosted by community groups. This event is hosted by Hafiz Muhammad Attaullah. Special thanks to their support!
 
 Event Agenda & Speakers:
