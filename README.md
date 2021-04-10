@@ -1,6 +1,6 @@
 # Machine Learning 101 - Deeplearning.Ai
 
-Repository containing hands-on, open-source, practise notebooks for participants attending the [AI 101: Introduction to Artificial Intelligence](https://www.facebook.com/events/429419051422702) Workshop.
+Repository containing hands-on, open-source, practise notebooks for participants attending the [ML-101](https://www.facebook.com/events/429419051422702) Workshop.
 
 List of files:
 
