@@ -34,6 +34,9 @@ Event Agenda & Speakers:
 We gives an overview of Machine Learning and delves deep into the pipeline used - right from fetching the data, the tools and frameworks used to creating models, gaining insights and telling a story.
 
 
+Speakers: 
+
+
 Adnan Zaidi
 
 Hafiz Muhammad Attaullah
